@@ -37,6 +37,10 @@ CSS
 2.Open index.html in your browser.
 ![scrrenshot](Images/image1.jpg)
 
+
+
+
+
 3. Full GitHub Link
 ![Gallery Preview](https://github.com/harshraja45/images_gallery/blob/main/Images/image1.jpg?raw=true)
 
