@@ -31,10 +31,10 @@ CSS
 
 ## 🚀 How to Run
 1. Clone this repository:  
-   ```bash
+   `
  [https](https://github.com/harshraja45/gallery_images.git)
 
-2.Open index.html in your browser.
+2.ScrrenShot of The Project.
 ![scrrenshot](Images/image1.jpg)
 
 
