@@ -42,7 +42,7 @@ CSS
 
 
 3. Full GitHub Link
-![Gallery Preview](https://github.com/harshraja45/images_gallery/blob/main/Images/image1.jpg?raw=true)
+![Gallery Preview]([https://github.com/harshraja45/images_gallery/blob/main/Images/image1.jpg?raw=true](https://github.com/harshraja45/gallery_images/blob/main/README.md))
 
 
 
