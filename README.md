@@ -40,10 +40,5 @@ CSS
 3. Full GitHub Link
 ![Gallery Preview](https://github.com/harshraja45/images_gallery/blob/main/Images/image1.jpg?raw=true)
 
-4. Multiple Images Example
-Here are some screenshots of the project:
 
-![Image 1](Images/image1.jpg)
-![Image 2](Images/image2.jpeg)
-![Favicon](favicon/favicon.ico)
 
