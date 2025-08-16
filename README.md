@@ -41,7 +41,7 @@ CSS
 
 
 
-3. Full GitHub Link
+3. GEt Full Images Here
 ![Gallery Preview](https://github.com/harshraja45/gallery_images/tree/main/Images))
 
 
