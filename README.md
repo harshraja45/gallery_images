@@ -32,7 +32,7 @@ CSS
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
- [http](https://github.com/harshraja45/gallery_images.git)
+ [https](https://github.com/harshraja45/gallery_images.git)
 
 2.Open index.html in your browser.
 ![scrrenshot](Images/image1.jpg)
